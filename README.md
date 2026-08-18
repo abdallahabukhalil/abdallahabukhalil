@@ -57,3 +57,5 @@ As the **Project Lead & Data Analyst**, I was mainly responsible for the analyti
 
 **Full Project:** [View InsightHub →](https://github.com/InsightHubapp/InsightHub)
 
+[View The Organization →](https://github.com/InsightHubapp)
+
