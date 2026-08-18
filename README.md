@@ -13,26 +13,7 @@ I'm also interested in how data and media can work together, especially in adver
 
 ## Featured Projects
 
-### Apple Retail Sales Analysis — DEPI
-
-What started as a question — *"If you had Apple's data, what would you uncover?"* — became a collaborative Power BI project analyzing 2024 retail sales data covering $1B in revenue and 1M units sold.
-
-The project explored sales performance across Apple's product categories and warranty data. We also built a collaborative Power BI development workflow using Git and GitHub.
-
-**My Role & Contributions**
-
-- Analyzed the Overview and Audio categories, identifying key revenue and sales patterns across products and markets.
-- Found that Tablets and Accessories were the top-performing categories, generating $337M in revenue.
-- Analyzed the $129M Audio category and identified Beats Fit Pro as the highest-revenue product at $21.7M, despite AirPods Pro selling more units.
-- Managed data cleaning and preprocessing and designed a star schema connecting Sales, Warranty, Product, and Date tables.
-- Used Git and GitHub for version control and team collaboration in Power BI development, reducing project delivery time by 66%, from 30 days to 10 days.
-- Contributed to standardizing the dashboard layout and grid structure.
-
-**Tools:** Power BI · DAX · Git · GitHub
-
-[View Project →](https://github.com/ALI-FADLOUN/DEPI-Project)
-
-### InsightHub — Job Market Analytics Platform
+### <img src="./assets/InsightHub%20Logo.svg" alt="InsightHub Logo" width=27 align="top">&ensp; InsightHub — Job Market Analytics Platform
 
 InsightHub was our graduation project at the Faculty of Science, Ain Shams University. We wanted to make job market data easier to understand and more useful for fresh graduates by bringing job listings, market trends, career information, and other resources into one platform.
 
@@ -59,3 +40,22 @@ As the **Project Lead & Data Analyst**, I was mainly responsible for the analyti
 
 [View The Organization →](https://github.com/InsightHubapp)
 
+
+### Apple Retail Sales Analysis — DEPI
+
+What started as a question — *"If you had Apple's data, what would you uncover?"* — became a collaborative Power BI project analyzing 2024 retail sales data covering $1B in revenue and 1M units sold.
+
+The project explored sales performance across Apple's product categories and warranty data. We also built a collaborative Power BI development workflow using Git and GitHub.
+
+**My Role & Contributions**
+
+- Analyzed the Overview and Audio categories, identifying key revenue and sales patterns across products and markets.
+- Found that Tablets and Accessories were the top-performing categories, generating $337M in revenue.
+- Analyzed the $129M Audio category and identified Beats Fit Pro as the highest-revenue product at $21.7M, despite AirPods Pro selling more units.
+- Managed data cleaning and preprocessing and designed a star schema connecting Sales, Warranty, Product, and Date tables.
+- Used Git and GitHub for version control and team collaboration in Power BI development, reducing project delivery time by 66%, from 30 days to 10 days.
+- Contributed to standardizing the dashboard layout and grid structure.
+
+**Tools:** Power BI · DAX · Git · GitHub
+
+[View Project →](https://github.com/ALI-FADLOUN/DEPI-Project)
