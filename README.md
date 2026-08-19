@@ -34,8 +34,6 @@ I'm also interested in how data and media can work together, especially in adver
 <p align="center">
   <strong>Machine Learning</strong>
   &nbsp;&nbsp;·&nbsp;&nbsp;
-  <strong>Statistics for Machine Learning</strong>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
   <strong>Supervised Learning</strong>
 </p>
 
