@@ -273,7 +273,7 @@ faster delivery
 
 <td width="50%" valign="top">
 
-### Key findings
+### What I Found
 
 <br>
 
