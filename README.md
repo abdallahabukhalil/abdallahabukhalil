@@ -183,8 +183,6 @@ Organization →
 
 </div>
 
-
-<br>
 <br>
 <br>
 
@@ -303,8 +301,6 @@ faster delivery
 </a>
 </div>
 
-
-<br>
 <br>
 <br>
 
