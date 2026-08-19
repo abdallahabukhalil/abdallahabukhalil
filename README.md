@@ -212,12 +212,9 @@ The project focused on product performance, sales patterns, and warranty data wh
 
 <br>
 
-</div>
-
-<br>
 <div align="center">
   
-### A few numbers
+### A Few Numbers
 
 </div>
 
