@@ -12,11 +12,19 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 <br>
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
-  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" width="32" alt="LinkedIn">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
+</picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
-  <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" width="32" alt="GitHub">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
+</picture>
 </a>
 
 </div>
@@ -329,11 +337,19 @@ I'm also interested in how data can work with **advertising, content, and the br
 ### Let's connect
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
-  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" width="32" alt="LinkedIn">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
+</picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
-  <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" width="32" alt="GitHub">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
+</picture>
 </a>
 
 <br>
