@@ -164,6 +164,7 @@ The analysis turned the collected job data into a clearer view of how roles, sal
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -313,6 +314,28 @@ faster delivery
 
 <div align="center">
 
+## Other Projects & Code Collections
+
+</div>
+
+* **[Core Algorithms in Python](https://github.com/abdallahabukhalil/Algorithms):** A collection of core algorithms originally studied as college pseudocode, now implemented in Python code.
+* **[Core Data Structures](https://github.com/abdallahabukhalil/Data-Structure):** Legacy data structure implementation in python Programs
+* **[Dawak Pharmacy Database](https://github.com/abdallahabukhalil/Pharmacy-Chain-Database---Dawak-University-Project-):** Database architecture, EER diagrams, and SQL queries for a pharmacy chain management system.
+
+<br>
+
+<div align="center">
+
+**<a href="https://github.com/abdallahabukhalil?tab=repositories">View More Repositories →</a>**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ## What I'm Exploring
 
 ### Machine Learning
@@ -320,6 +343,8 @@ faster delivery
 **Supervised Learning** · **Modeling** · **Data-driven prediction**
 
 I'm building on my background in statistics and data analysis to understand how machine learning can answer a wider range of questions.
+
+**[Explore my Machine Learning Journey workspace →](https://github.com/abdallahabukhalil/Machine-Learning-Journey)**
 
 <br>
 
