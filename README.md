@@ -296,7 +296,7 @@ faster delivery
 
 <div align="center">
 
-`Power BI` · `Git` · `GitHub`
+`Power BI` · `DAX` · `Git` · `GitHub`
 
 <br>
 
