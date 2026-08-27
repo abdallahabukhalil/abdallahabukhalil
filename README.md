@@ -2,8 +2,11 @@
 
 # Abdallah Abukhalil
 
-### Data Analyst · Statistics & Computer Science Graduate
+### Data Analyst · Analytics Engineer 
 
+*B.Sc in Stat & CS - Ain Shams University*
+
+<br>
 I work with data to understand what is happening,
 why it is happening, and what we can learn from it.
 
