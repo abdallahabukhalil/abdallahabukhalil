@@ -15,11 +15,19 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 <br>
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
-  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" width="32" alt="LinkedIn">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
+</picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
-  <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" width="32" alt="GitHub">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
+</picture>
 </a>
 
 </div>
@@ -159,6 +167,7 @@ The analysis turned the collected job data into a clearer view of how roles, sal
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -290,7 +299,7 @@ faster delivery
 
 <div align="center">
 
-`Power BI` · `Git` · `GitHub`
+`Power BI` · `DAX` · `Git` · `GitHub`
 
 <br>
 
@@ -308,6 +317,28 @@ faster delivery
 
 <div align="center">
 
+## Other Projects & Code Collections
+
+</div>
+
+* **[Core Algorithms in Python](https://github.com/abdallahabukhalil/Algorithms):** A collection of core algorithms originally studied as college pseudocode, now implemented in Python code.
+* **[Core Data Structures](https://github.com/abdallahabukhalil/Data-Structure):** Legacy data structure implementation in python Programs
+* **[Dawak Pharmacy Database](https://github.com/abdallahabukhalil/Pharmacy-Chain-Database---Dawak-University-Project-):** Database architecture, EER diagrams, and SQL queries for a pharmacy chain management system.
+
+<br>
+
+<div align="center">
+
+**<a href="https://github.com/abdallahabukhalil?tab=repositories">View More Repositories →</a>**
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
 ## What I'm Exploring
 
 ### Machine Learning
@@ -315,6 +346,8 @@ faster delivery
 **Supervised Learning** · **Modeling** · **Data-driven prediction**
 
 I'm building on my background in statistics and data analysis to understand how machine learning can answer a wider range of questions.
+
+**[Explore my Machine Learning Journey workspace →](https://github.com/abdallahabukhalil/Machine-Learning-Journey)**
 
 <br>
 
@@ -332,11 +365,19 @@ I'm also interested in how data can work with **advertising, content, and the br
 ### Let's connect
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
-  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff" width="32" alt="LinkedIn">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
+</picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
-  <img src="https://api.iconify.design/mdi:github.svg?color=%23ffffff" width="32" alt="GitHub">
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
+  <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
+</picture>
 </a>
 
 <br>
