@@ -197,7 +197,7 @@ The pipeline is designed to combine content similarity with tag coverage without
 Live Demo →
 </a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/moaazali3/Game-Recommender-API/tree/New-Score-Engine">
+<a href="https://github.com/moaazali3/Game-Recommender-API">
 Source Code →
 </a>
 
