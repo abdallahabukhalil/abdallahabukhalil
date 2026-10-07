@@ -65,6 +65,152 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 <table>
 <tr>
 <div align="center">
+
+<p><img src="./assets/ludova-logo.svg" alt="Ludova Logo" width="42" align="middle"> <h3>Ludova</h3> </p>
+
+<h3>Game Recommender</h3>
+
+**Content-Based Recommendation & Blender Systems**
+
+</div>
+
+<br>
+
+<div align="center">
+A team project built around a content-based Steam game recommendation system and a separate game blending system that uses recommendation results to build a final set of games.
+</div>
+
+<br>
+
+<div align="center">
+As a <b>Contributor</b>, I designed and implemented the Python Recommendation Engine and separately the Python Post-Process Game Blender, while keeping both components compatible with the project's original implementations through fallbacks.
+</div>
+
+<br>
+
+</tr>
+</table>
+<br>
+
+Game Recommender:
+<div align="center">
+
+  ### Selected Games → TF-IDF Representations → MixScore → Ranked Candidates
+
+</div>
+
+Game Blender:
+<div align="center">
+  
+  ### Ranked Candidates → Raw Tags → P75 Groups → Final Selection
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+**20K+**
+
+Steam games
+
+</td>
+
+<td align="center" width="25%">
+
+**2**
+
+content
+signals
+
+</td>
+
+<td align="center" width="25%">
+
+**P75**
+
+tag-based
+grouping
+
+</td>
+
+<td align="center" width="25%">
+
+**2**
+
+separate systems
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What I Built
+
+* Python **Recommendation Engine** using separate TF-IDF representations for game Tags and review-derived Keywords
+* Character-level TF-IDF with `char_wb`, using `(3,5)` n-grams for Tags and `(2,4)` n-grams for Keywords
+* **MixScore** combining Tag and Keyword similarity using their geometric mean without manually assigned weights
+* Candidate generation and ranking based on the selected games and their content similarity
+* Python **Game Blender** that works with ranked candidates from the Recommendation Engine and their raw Tags
+* P75 grouping, Exclusive Tags, and CoverageCount logic for the final game selection
+
+</td>
+
+<td width="50%" valign="top">
+
+### What I Built Around
+
+**Recommendation Ranking:** <br>
+The new scoring engine combines two independent content signals — Tags and review-derived Keywords — into a single MixScore for ranking candidate games.
+
+<br>
+
+**Game Blending:** <br>
+The Blender takes the ranked candidates and groups them by their raw Tags, then uses P75 grouping, Exclusive Tags, and CoverageCount to build the final recommendation set.
+
+<br>
+
+The pipeline is designed to combine content similarity with tag coverage without relying on manually assigned weights.
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `scikit-learn` · `Pandas` · `TF-IDF` · `Cosine Similarity` · `FastAPI` · `Git` · `GitHub`
+
+<br>
+
+<a href="https://game-recommender.runasp.net/">
+Live Demo →
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/moaazali3/Game-Recommender-API/tree/New-Score-Engine">
+Source Code →
+</a>
+
+</div>
+
+<br>
+<br>
+
+---
+
+<table>
+<tr>
+<div align="center">
 <p><img src="./assets/InsightHub%20Logo.svg" alt="InsightHub Logo" width="42" align="middle"> <h3>InsightHub</h3> </p>
 
 **Job Market Analytics Platform**
