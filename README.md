@@ -44,8 +44,7 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <div align="center">
 
-`Python`  ·  `SQL`  ·  `Power BI`  ·  `Excel`
-`Pandas`  ·  `DAX`  ·  `FastAPI`  ·  `Git`
+`Python`  ·  `SQL`  ·  `Power BI`  ·  `Excel`  ·  `Pandas`  ·  `scikit-learn`  ·  `DAX`  ·  `FastAPI`  ·  `Git`
 
 </div>
 
