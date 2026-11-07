@@ -16,25 +16,25 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-black.svg">
+    <img src="./assets/linkedin-black.svg" width="32" alt="LinkedIn">
+  </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
-    <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
-</picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-black.svg">
+    <img src="./assets/github-black.svg" width="32" alt="GitHub">
+  </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000">
-    <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000" width="32" alt="Hugging Face">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/huggingface-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/huggingface-black.svg">
+    <img src="./assets/huggingface-black.svg" width="32" alt="Hugging Face">
   </picture>
 </a>
 
@@ -519,25 +519,25 @@ I'm also interested in how data can work with **advertising, content, and the br
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:linkedin.svg?color=%23000000">
-    <img src="https://api.iconify.design/mdi:linkedin.svg?color=%23000000" width="32" alt="LinkedIn">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-black.svg">
+    <img src="./assets/linkedin-black.svg" width="32" alt="LinkedIn">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/mdi:github.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/mdi:github.svg?color=%23000000">
-    <img src="https://api.iconify.design/mdi:github.svg?color=%23000000" width="32" alt="GitHub">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-black.svg">
+    <img src="./assets/github-black.svg" width="32" alt="GitHub">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23ffffff">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000">
-    <img src="https://api.iconify.design/simple-icons:huggingface.svg?color=%23000000" width="32" alt="Hugging Face">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/huggingface-white.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/huggingface-black.svg">
+    <img src="./assets/huggingface-black.svg" width="32" alt="Hugging Face">
   </picture>
 </a>
 
