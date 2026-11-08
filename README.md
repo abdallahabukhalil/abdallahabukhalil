@@ -63,6 +63,177 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <table>
 <tr>
+<td align="center">
+
+<div align="center">
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/bynat-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/bynat-light.svg">
+    <img src="./assets/bynat-light.svg" width="300" alt="bynat">
+</picture>
+
+<h3>A Python toolkit for simplifying data workflows.</h3>
+
+**Tidy, Enrich & Cache Tabular Data**
+
+</div>
+
+<br>
+
+<div align="center">
+A Python toolkit made of small, reusable utilities for tidying, enriching, loading, saving and caching tabular data.
+</div>
+
+<br>
+
+<div align="center">
+Built on pandas. Use it as a <code>df.bynat</code> accessor or through the <code>BaseData</code> class, and let a SQLite cache remember slow lookups between runs.
+</div>
+
+<br>
+
+</td>
+</tr>
+</table>
+<br>
+
+Cleaning:
+<div align="center">
+
+  ### Messy Table → df.bynat or BaseData → Cleaning Methods → Tidy Table
+
+</div>
+
+Caching:
+<div align="center">
+
+  ### Unique Values → Cache Lookup → Fetch Misses → Checkpoint to SQLite
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+
+**2**
+
+core
+dependencies
+
+</td>
+
+<td align="center" width="25%">
+
+**6**
+
+optional
+integrations
+
+</td>
+
+<td align="center" width="25%">
+
+**3**
+
+fill
+strategies
+
+</td>
+
+<td align="center" width="25%">
+
+**1**
+
+SQLite file
+per cache folder
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### What You Can Do
+
+* Clean ordinary pandas tables with the **`df.bynat`** accessor, or use the class API (`BaseData`, `JsonFile`, `CsvFile`). Both use the same cleaning code
+* Work **by group**: `fill_missing`, `handle_outliers`, `drop_outliers` and `get_hierarchical_stats` follow a hierarchy such as country → job title
+* Reshape columns: rename, drop, reorder and move them, use `melt_transform_pivot`, and split list cells with `split_list_objects`
+* Work with text: `extract_keywords`, `categorize_by_reference`, `truncate_after_substring` and `impute_by_language`
+* Add outside information: translation, geocoding, `convert_to_usd` and spaCy entity extraction
+* Load and save: `read_csv`, `read_json`, `save_to_json` (with append and deduplication) and `save_to_sql`
+* Check the work: tests run offline with fake modules, and the faster methods have equivalence tests and benchmark scripts
+
+</td>
+
+<td width="50%" valign="top">
+
+### How It Works
+
+**Group-Aware Cleaning:** <br>
+The typical salary in one country is not the typical salary in another. Group methods use `median`, `mean` or `mode` per group and move through the hierarchy level by level. The outlier methods use IQR per group and relax the grouping when a group has too few rows (`min_samples`, default 5).
+
+<br>
+
+**Auditable Numbers:** <br>
+Pass `get_hierarchical_stats=True` to `fill_missing`, `handle_outliers` or `drop_outliers` and you also get the group statistics, calculated on the original data before anything changes.
+
+<br>
+
+**Remembered Lookups:** <br>
+Translation, geocoding, exchange rates and NLP are slow and can fail. They share one engine: it finds the unique values, checks the cache, fetches only the misses, and saves progress every `save_every` values. Failed lookups are logged and not saved, so the next run tries them again.
+
+<br>
+
+**Few Requirements:** <br>
+Only `numpy` and `pandas` are required. The other integrations are optional extras, loaded only when you call a method that needs them. You can also pass your own translator, geocoder or rate source with `provider=`.
+
+<br>
+
+**Worth Knowing:** <br>
+Outside services can fail, rate-limit or change results. The spaCy model and the SQL driver are not bundled. Most methods skip missing columns with a logged warning, so always use the value they return.
+
+<br>
+
+Methods chain, so a cleanup can read as one short line of steps.
+
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+`Python` · `pandas` · `NumPy` · `SQLite` · `spaCy` · `SQLAlchemy` · `pytest` · `Ruff` · `mypy` · `GitHub Actions`
+
+<br>
+
+<a href="https://pypi.org/project/bynat/">
+PyPI →
+</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://github.com/bynat-lab/bynat">
+Source Code →
+</a>
+
+</div>
+
+<br>
+<br>
+
+---
+
+<table>
+<tr>
 <div align="center">
 
 <p><img src="./assets/ludova-logo.svg" alt="Ludova Logo" width="42" align="middle"> <h3>Ludova</h3> </p>
