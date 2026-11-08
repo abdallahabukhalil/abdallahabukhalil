@@ -176,7 +176,7 @@ per cache folder
 
 ### Why Analysts Will Like It
 
-**Cleaning That Knows Your Groups:** <br>
+**Knows Your Groups:** <br>
 A missing salary should not get one number for the whole table. bynat fills it from its own group, like country and job title, and works through the levels step by step. Outliers are checked inside each group too.
 
 <br>
