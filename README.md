@@ -175,34 +175,34 @@ per cache folder
 
 <td width="50%" valign="top">
 
-### How It Works
+### Why Analysts Will Like It
 
-**Group-Aware Cleaning:** <br>
-The typical salary in one country is not the typical salary in another. Group methods use `median`, `mean` or `mode` per group and move through the hierarchy level by level. The outlier methods use IQR per group and relax the grouping when a group has too few rows (`min_samples`, default 5).
-
-<br>
-
-**Auditable Numbers:** <br>
-Pass `get_hierarchical_stats=True` to `fill_missing`, `handle_outliers` or `drop_outliers` and you also get the group statistics, calculated on the original data before anything changes.
+**Cleaning That Knows Your Groups:** <br>
+A missing salary should not get one number for the whole table. bynat fills it from its own group, like country and job title, and works through the levels step by step. Outliers are checked inside each group too.
 
 <br>
 
-**Remembered Lookups:** <br>
-Translation, geocoding, exchange rates and NLP are slow and can fail. They share one engine: it finds the unique values, checks the cache, fetches only the misses, and saves progress every `save_every` values. Failed lookups are logged and not saved, so the next run tries them again.
+**Numbers You Can Show:** <br>
+Ask for `get_hierarchical_stats=True` and you also get the group values the cleaning was based on, taken before anything changed. Now you can show your team why a value was filled or removed.
 
 <br>
 
-**Few Requirements:** <br>
-Only `numpy` and `pandas` are required. The other integrations are optional extras, loaded only when you call a method that needs them. You can also pass your own translator, geocoder or rate source with `provider=`.
+**Slow Lookups, Done Once:** <br>
+Translating categories, finding coordinates and converting money to USD all take time. bynat asks for each unique value once and keeps the answer in a SQLite file, so the same lookup is not repeated on the next run. Progress is saved every `save_every` values, and failed lookups are tried again later.
 
 <br>
 
-**Worth Knowing:** <br>
-Outside services can fail, rate-limit or change results. The spaCy model and the SQL driver are not bundled. Most methods skip missing columns with a logged warning, so always use the value they return.
+**Light to Start:** <br>
+You only need `numpy` and `pandas`. Want translation, maps, currency, NLP or SQL? Add just the extra you need. You can also bring your own translator, geocoder or rate source with `provider=`.
 
 <br>
 
-Methods chain, so a cleanup can read as one short line of steps.
+**Short, Readable Cleanups:** <br>
+Methods chain, so a cleanup takes one line: `records.bynat.rename_all_DOTS().bynat.drop_by_substring("user")`. Prefer classes? `BaseData` does the same jobs.
+
+<br>
+
+One small workbench for the fiddly jobs around a table.
 
 </td>
 </tr>
