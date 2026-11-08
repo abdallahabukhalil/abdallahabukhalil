@@ -59,21 +59,20 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 </div>
 
-<br><br>
+<br>
 
 <table>
 <tr>
-<td align="center">
 
 <div align="center">
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/bynat-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="./assets/bynat-light.svg">
-    <img src="./assets/bynat-light.svg" width="300" alt="bynat">
+    <img src="./assets/bynat-light.svg" width="250" alt="bynat">
 </picture>
 
-<h3>A Python toolkit for simplifying data workflows.</h3>
+<h3>A toolkit for simplifying data workflows</h3>
 
 **Tidy, Enrich & Cache Tabular Data**
 
@@ -88,12 +87,12 @@ A Python toolkit made of small, reusable utilities for tidying, enriching, loadi
 <br>
 
 <div align="center">
-Built on pandas. Use it as a <code>df.bynat</code> accessor or through the <code>BaseData</code> class, and let a SQLite cache remember slow lookups between runs.
+  
+As the **Creator**, I work with pandas data cleaning every day and share what I learn through bynat. I put it on PyPI so analysts can reuse the same cleaning steps instead of rewriting them.
 </div>
 
 <br>
 
-</td>
 </tr>
 </table>
 <br>
@@ -223,6 +222,10 @@ PyPI →
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/bynat-lab/bynat">
 Source Code →
+</a>
+<br><br>
+<a href="https://www.instagram.com/bynat.lab/">
+Follow on Instagram 📷 →
 </a>
 
 </div>
