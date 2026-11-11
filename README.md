@@ -37,7 +37,7 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
   </picture>
 </a>
 
-<br><br>
+<br>
 
 `Python`  ·  `SQL`  ·  `Power BI`  ·  `Excel`  ·  `Pandas`  ·  `scikit-learn`  ·  `DAX`  ·  `FastAPI`  ·  `Git`
 
