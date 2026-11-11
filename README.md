@@ -1,13 +1,15 @@
 <div align="center">
-
-# Abdallah Abukhalil
-
-### Data Analyst · Analytics Engineer 
-
-*B.Sc in Stat & CS - Ain Shams University*
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
+    <img src="./assets/banner-light.svg" width="100%" alt="Abdallah Abukhalil — Data Analyst · Analytics Engineer. B.Sc in Stat & CS - Ain Shams University">
+  </picture>
+</div>
 
 <br>
-I work with data to understand what is happening,
+
+<div align="center">
+
+I work with data to understand what is happening,<br>
 why it is happening, and what we can learn from it.
 
 Currently exploring **Machine Learning** and the intersection of **data & media**.
@@ -16,33 +18,26 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-black.svg">
-    <img src="./assets/linkedin-black.svg" width="32" alt="LinkedIn">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg">
+    <img src="./assets/icon-linkedin-light.svg" width="32" alt="LinkedIn">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-black.svg">
-    <img src="./assets/github-black.svg" width="32" alt="GitHub">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-github-dark.svg">
+    <img src="./assets/icon-github-light.svg" width="32" alt="GitHub">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/huggingface-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/huggingface-black.svg">
-    <img src="./assets/huggingface-black.svg" width="32" alt="Hugging Face">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-huggingface-dark.svg">
+    <img src="./assets/icon-huggingface-light.svg" width="32" alt="Hugging Face">
   </picture>
 </a>
 
-</div>
-
 <br>
-
-<div align="center">
 
 `Python`  ·  `SQL`  ·  `Power BI`  ·  `Excel`  ·  `Pandas`  ·  `scikit-learn`  ·  `DAX`  ·  `FastAPI`  ·  `Git`
 
@@ -50,64 +45,58 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+<br>
+
 <div align="center">
 
-## Selected Work
+<h2>Selected Work</h2>
 
-*Projects where I worked with data from collection to analysis and insight.*
+<em>Projects where I worked with data from collection to analysis and insight.</em>
 
 </div>
 
 <br>
 
+<!-- ───────────────────────── bynat ───────────────────────── -->
+
 <table>
 <tr>
-
-<div align="center">
+<td align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/bynat-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/bynat-light.svg">
-    <img src="./assets/bynat-light.svg" width="250" alt="bynat">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/bynat-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/bynat-light.svg">
+  <img src="./assets/bynat-light.svg" width="250" alt="bynat">
 </picture>
 
 <h3>A toolkit for simplifying data workflows</h3>
 
 **Tidy, Enrich & Cache Tabular Data**
 
-</div>
-
 <br>
 
-<div align="center">
 A Python toolkit made of small, reusable utilities for tidying, enriching, loading, saving and caching tabular data.
-</div>
 
-<br>
-
-<div align="center">
-  
 As the **Creator**, I work with pandas data cleaning every day and share what I learn through bynat. I put it on PyPI so analysts can reuse the same cleaning steps instead of rewriting them.
-</div>
 
-<br>
-
+</td>
 </tr>
 </table>
-<br>
 
-Cleaning:
 <div align="center">
 
-  ### Messy Table → df.bynat or BaseData → Cleaning Methods → Tidy Table
+**Cleaning**
 
-</div>
+`Messy Table` → `df.bynat or BaseData` → `Cleaning Methods` → `Tidy Table`
 
-Caching:
-<div align="center">
+**Caching**
 
-  ### Unique Values → Cache Lookup → Fetch Misses → Checkpoint to SQLite
+`Unique Values` → `Cache Lookup` → `Fetch Misses` → `Checkpoint to SQLite`
 
 </div>
 
@@ -120,39 +109,33 @@ Caching:
 
 **2**
 
-core
-dependencies
+core<br>dependencies
 
 </td>
-
 <td align="center" width="25%">
 
 **6**
 
-optional
-integrations
+optional<br>integrations
 
 </td>
-
 <td align="center" width="25%">
 
 **3**
 
-fill
-strategies
+fill<br>strategies
 
 </td>
-
 <td align="center" width="25%">
 
 **1**
 
-SQLite file
-per cache folder
+SQLite file<br>per cache folder
 
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -171,44 +154,30 @@ per cache folder
 * Check the work: tests run offline with fake modules, and the faster methods have equivalence tests and benchmark scripts
 
 </td>
-
 <td width="50%" valign="top">
 
 ### Why Analysts Will Like It
 
-**Knows Your Groups:** <br>
+**Knows Your Groups**<br>
 A missing salary should not get one number for the whole table. bynat fills it from its own group, like country and job title, and works through the levels step by step. Outliers are checked inside each group too.
 
-<br>
-
-**Numbers You Can Show:** <br>
+**Numbers You Can Show**<br>
 Ask for `get_hierarchical_stats=True` and you also get the group values the cleaning was based on, taken before anything changed. Now you can show your team why a value was filled or removed.
 
-<br>
-
-**Slow Lookups, Done Once:** <br>
+**Slow Lookups, Done Once**<br>
 Translating categories, finding coordinates and converting money to USD all take time. bynat asks for each unique value once and keeps the answer in a SQLite file, so the same lookup is not repeated on the next run. Progress is saved every `save_every` values, and failed lookups are tried again later.
 
-<br>
-
-**Light to Start:** <br>
+**Light to Start**<br>
 You only need `numpy` and `pandas`. Want translation, maps, currency, NLP or SQL? Add just the extra you need. You can also bring your own translator, geocoder or rate source with `provider=`.
 
-<br>
-
-**Short, Readable Cleanups:** <br>
+**Short, Readable Cleanups**<br>
 Methods chain, so a cleanup takes one line: `records.bynat.rename_all_DOTS().bynat.drop_by_substring("user")`. Prefer classes? `BaseData` does the same jobs.
 
-<br>
-
-One small workbench for the fiddly jobs around a table.
+*One small workbench for the fiddly jobs around a table.*
 
 </td>
 </tr>
 </table>
-</div>
-
-<br>
 
 <div align="center">
 
@@ -216,66 +185,54 @@ One small workbench for the fiddly jobs around a table.
 
 <br>
 
-<a href="https://pypi.org/project/bynat/">
-PyPI →
-</a>
+<a href="https://pypi.org/project/bynat/"><b>PyPI →</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/bynat-lab/bynat">
-Source Code →
-</a>
-<br><br>
-<a href="https://www.instagram.com/bynat.lab/">
-Follow on Instagram 📷 →
-</a>
+<a href="https://github.com/bynat-lab/bynat"><b>Source Code →</b></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://www.instagram.com/bynat.lab/"><b>Follow on Instagram 📷 →</b></a>
 
 </div>
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
 <br>
 
----
+<!-- ───────────────────────── Ludova ───────────────────────── -->
 
 <table>
 <tr>
-<div align="center">
+<td align="center">
 
-<p><img src="./assets/ludova-logo.svg" alt="Ludova Logo" width="42" align="middle"> <h3>Ludova</h3> </p>
+<img src="./assets/ludova-logo.svg" alt="Ludova Logo" width="56">
 
-<h3>Game Recommender</h3>
+<h3>Ludova · Game Recommender</h3>
 
 **Content-Based Recommendation & Blender Systems**
 
-</div>
-
 <br>
 
-<div align="center">
 A team project built around a content-based Steam game recommendation system and a separate game blending system that uses recommendation results to build a final set of games.
-</div>
 
-<br>
-
-<div align="center">
 As a <b>Contributor</b>, I designed and implemented the Python Recommendation Engine and separately the Python Post-Process Game Blender, while keeping both components compatible with the project's original implementations through fallbacks.
-</div>
 
-<br>
-
+</td>
 </tr>
 </table>
-<br>
 
-Game Recommender:
 <div align="center">
 
-  ### Selected Games → TF-IDF Representations → MixScore → Ranked Candidates
+**Game Recommender**
 
-</div>
+`Selected Games` → `TF-IDF Representations` → `MixScore` → `Ranked Candidates`
 
-Game Blender:
-<div align="center">
-  
-  ### Ranked Candidates → Raw Tags → P75 Groups → Final Selection
+**Game Blender**
+
+`Ranked Candidates` → `Raw Tags` → `P75 Groups` → `Final Selection`
 
 </div>
 
@@ -291,25 +248,20 @@ Game Blender:
 Steam games
 
 </td>
-
 <td align="center" width="25%">
 
 **2**
 
-content
-signals
+content<br>signals
 
 </td>
-
 <td align="center" width="25%">
 
 **P75**
 
-tag-based
-grouping
+tag-based<br>grouping
 
 </td>
-
 <td align="center" width="25%">
 
 **2**
@@ -319,6 +271,7 @@ separate systems
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -336,29 +289,21 @@ separate systems
 * P75 grouping, Exclusive Tags, and CoverageCount logic for the final game selection
 
 </td>
-
 <td width="50%" valign="top">
 
 ### What I Built Around
 
-**Recommendation Ranking:** <br>
+**Recommendation Ranking**<br>
 The new scoring engine combines two independent content signals — Tags and review-derived Keywords — into a single MixScore for ranking candidate games.
 
-<br>
-
-**Game Blending:** <br>
+**Game Blending**<br>
 The Blender takes the ranked candidates and groups them by their raw Tags, then uses P75 grouping, Exclusive Tags, and CoverageCount to build the final recommendation set.
 
-<br>
-
-The pipeline is designed to combine content similarity with tag coverage without relying on manually assigned weights.
+*The pipeline is designed to combine content similarity with tag coverage without relying on manually assigned weights.*
 
 </td>
 </tr>
 </table>
-</div>
-
-<br>
 
 <div align="center">
 
@@ -366,50 +311,46 @@ The pipeline is designed to combine content similarity with tag coverage without
 
 <br>
 
-<a href="https://game-recommender.runasp.net/">
-Live Demo →
-</a>
+<a href="https://game-recommender.runasp.net/"><b>Live Demo →</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/moaazali3/Game-Recommender-API">
-Source Code →
-</a>
+<a href="https://github.com/moaazali3/Game-Recommender-API"><b>Source Code →</b></a>
 
 </div>
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
 <br>
 
----
+<!-- ───────────────────────── InsightHub ───────────────────────── -->
 
 <table>
 <tr>
-<div align="center">
-<p><img src="./assets/InsightHub%20Logo.svg" alt="InsightHub Logo" width="42" align="middle"> <h3>InsightHub</h3> </p>
+<td align="center">
+
+<img src="./assets/InsightHub%20Logo.svg" alt="InsightHub Logo" width="56">
+
+<h3>InsightHub</h3>
 
 **Job Market Analytics Platform**
-</div>
 
 <br>
 
-<div align="center">
 A graduation project built to make job market data easier to explore by bringing job listings, market trends, career information, and other resources into one platform.
-</div>
 
-<br>
-
-<div align="center">
 As <b>Project Lead & Data Analyst</b>, I led the analytics side of the project — building the data workflows and the Analytics Engine behind the platform's insights.
-</div>
 
-<br>
-
+</td>
 </tr>
 </table>
 
-
 <div align="center">
-  
-### Raw Data → Refresh Stage → Shared Data → Analytics Engine → Endpoints → Insights
+
+`Raw Data` → `Refresh Stage` → `Shared Data` → `Analytics Engine` → `Endpoints` → `Insights`
 
 </div>
 
@@ -422,39 +363,33 @@ As <b>Project Lead & Data Analyst</b>, I led the analytics side of the project �
 
 **10K+**
 
-job records
-per run
+job records<br>per run
 
 </td>
-
 <td align="center" width="25%">
 
 **65%**
 
-less repeated
-processing
+less repeated<br>processing
 
 </td>
-
 <td align="center" width="25%">
 
 **1.9×**
 
-Junior → Lead
-salary growth
+Junior → Lead<br>salary growth
 
 </td>
-
 <td align="center" width="25%">
 
 **70%**
 
-higher Senior
-demand
+higher Senior<br>demand
 
 </td>
 </tr>
 </table>
+</div>
 
 <br>
 
@@ -472,31 +407,21 @@ demand
 * APIs connecting the analytics layer with the Backend and Flutter teams
 
 </td>
-
 <td width="50%" valign="top">
 
 ### What I Found
 
-**Salary Growth:**
-<br>
+**Salary Growth**<br>
 Junior → Lead roles showed around **1.9× salary growth**.
 
-<br>
-
-**Senior Demand:**
-<br>
+**Senior Demand**<br>
 Senior positions showed approximately **70% higher demand in the gig economy**.
 
-<br>
-
-The analysis turned the collected job data into a clearer view of how roles, salaries, and demand change across the market.
+*The analysis turned the collected job data into a clearer view of how roles, salaries, and demand change across the market.*
 
 </td>
 </tr>
 </table>
-</div>
-
-<br>
 
 <div align="center">
 
@@ -504,63 +429,50 @@ The analysis turned the collected job data into a clearer view of how roles, sal
 
 <br>
 
-<a href="https://app.notion.com/p/InsightHub-Documentation-3599d9622f6e80348c9fdad909684c36?session_sync_attempted=1">
-Documentation →
-</a>
+<a href="https://app.notion.com/p/InsightHub-Documentation-3599d9622f6e80348c9fdad909684c36?session_sync_attempted=1"><b>Documentation →</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/InsightHubapp/Analytics-Department">
-Analytics Engine →
-</a>
+<a href="https://github.com/InsightHubapp/Analytics-Department"><b>Analytics Engine →</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/InsightHubapp/InsightHub">
-Full Project →
-</a>
+<a href="https://github.com/InsightHubapp/InsightHub"><b>Full Project →</b></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/InsightHubapp">
-Organization →
-</a>
+<a href="https://github.com/InsightHubapp"><b>Organization →</b></a>
 
 </div>
 
 <br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
 <br>
 
----
+<!-- ───────────────────────── Apple Retail Sales ───────────────────────── -->
 
+<table>
 <tr>
-<td>
+<td align="center">
 
-<div align="center">
-
-### Apple Retail Sales
+<h3>Apple Retail Sales</h3>
 
 **Analysis · DEPI**
-</div>
 
 <br>
 
-<div align="center">
 A collaborative Power BI project exploring 2024 Apple retail sales data covering <b>$1B in revenue</b> and <b>1M units sold</b>.
-</div>
 
-<br>
-
-<div align="center">
 The project focused on product performance, sales patterns, and warranty data while using Git and GitHub for team collaboration.
-</div>
 
-<br>
-
-<div align="center">
-  
-### A Few Numbers
-
-</div>
-
-<br>
+</td>
+</tr>
+</table>
 
 <div align="center">
-<table width="100%">
+
+<h4>A Few Numbers</h4>
+
+<table>
 <tr>
 <td align="center" width="25%">
 
@@ -569,7 +481,6 @@ The project focused on product performance, sales patterns, and warranty data wh
 revenue
 
 </td>
-
 <td align="center" width="25%">
 
 **1M**
@@ -584,7 +495,6 @@ units
 top categories
 
 </td>
-
 <td align="center" width="25%">
 
 **66%**
@@ -609,12 +519,9 @@ faster delivery
 * Contributed to standardizing the dashboard layout and grid structure.
 
 </td>
-
 <td width="50%" valign="top">
 
 ### What I Found
-
-<br>
 
 * Tablets and Accessories generated **$337M** in revenue.
 * Beats Fit Pro generated **$21.7M**, despite AirPods Pro selling more units.
@@ -630,43 +537,59 @@ faster delivery
 
 <br>
 
-<a href="https://github.com/ALI-FADLOUN/DEPI-Project">
-
-**View Project →**
-
-</a>
-</div>
-
-<br>
-<br>
-
----
-
-<div align="center">
-
-## Other Projects & Code Collections
-
-</div>
-
-* **[Core Algorithms in Python](https://github.com/abdallahabukhalil/Algorithms):** A collection of core algorithms originally studied as college pseudocode, now implemented in Python code.
-* **[Core Data Structures](https://github.com/abdallahabukhalil/Data-Structure):** Legacy data structure implementation in python Programs
-* **[Dawak Pharmacy Database](https://github.com/abdallahabukhalil/Pharmacy-Chain-Database---Dawak-University-Project-):** Database architecture, EER diagrams, and SQL queries for a pharmacy chain management system.
-
-<br>
-
-<div align="center">
-
-**<a href="https://github.com/abdallahabukhalil?tab=repositories">View More Repositories →</a>**
+<a href="https://github.com/ALI-FADLOUN/DEPI-Project"><b>View Project →</b></a>
 
 </div>
 
 <br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+<br>
 
 <div align="center">
 
-## What I'm Exploring
+<h2>Other Projects & Code Collections</h2>
+
+</div>
+
+<br>
+
+| Project | About |
+|:---|:---|
+| **[Core Algorithms in Python](https://github.com/abdallahabukhalil/Algorithms)** | A collection of core algorithms originally studied as college pseudocode, now implemented in Python code. |
+| **[Core Data Structures](https://github.com/abdallahabukhalil/Data-Structure)** | Legacy data structure implementation in python Programs |
+| **[Dawak Pharmacy Database](https://github.com/abdallahabukhalil/Pharmacy-Chain-Database---Dawak-University-Project-)** | Database architecture, EER diagrams, and SQL queries for a pharmacy chain management system. |
+
+<div align="center">
+
+<br>
+
+<a href="https://github.com/abdallahabukhalil?tab=repositories"><b>View More Repositories →</b></a>
+
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+<br>
+
+<div align="center">
+
+<h2>What I'm Exploring</h2>
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
 ### Machine Learning
 
@@ -676,42 +599,48 @@ I'm building on my background in statistics and data analysis to understand how 
 
 **[Explore my Machine Learning Journey workspace →](https://github.com/abdallahabukhalil/Machine-Learning-Journey)**
 
-<br>
+</td>
+<td width="50%" valign="top" align="center">
 
 ### Data × Media
 
 I'm also interested in how data can work with **advertising, content, and the broader media industry**.
 
-</div>
+</td>
+</tr>
+</table>
 
 <br>
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider-light.svg" width="100%" alt="">
+</picture>
+
+<br>
+
 <div align="center">
 
-### Let's connect
+<h3>Let's connect</h3>
 
 <a href="https://www.linkedin.com/in/abdallahabukhalil/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/linkedin-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/linkedin-black.svg">
-    <img src="./assets/linkedin-black.svg" width="32" alt="LinkedIn">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-linkedin-dark.svg">
+    <img src="./assets/icon-linkedin-light.svg" width="32" alt="LinkedIn">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-black.svg">
-    <img src="./assets/github-black.svg" width="32" alt="GitHub">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-github-dark.svg">
+    <img src="./assets/icon-github-light.svg" width="32" alt="GitHub">
   </picture>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://huggingface.co/abdallahabukhalil">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/huggingface-white.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/huggingface-black.svg">
-    <img src="./assets/huggingface-black.svg" width="32" alt="Hugging Face">
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-huggingface-dark.svg">
+    <img src="./assets/icon-huggingface-light.svg" width="32" alt="Hugging Face">
   </picture>
 </a>
 
