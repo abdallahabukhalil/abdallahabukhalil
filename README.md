@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
-    <img src="./assets/banner-light.svg" width="100%" alt="Abdallah Abukhalil — Data Analyst · Analytics Engineer. B.Sc in Stat & CS - Ain Shams University">
+    <img src="./assets/banner-light.svg" width="100%" alt="Abdallah Abukhalil — Data Analyst & Scientist . B.Sc in Stat & CS - Ain Shams University">
   </picture>
 </div>
 
