@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 20" width="1200" height="20" role="img" aria-label="divider">
+  <line x1="0" y1="10" x2="560" y2="10" stroke="#D9C59B" stroke-width="2" stroke-linecap="round"/>
+  <line x1="640" y1="10" x2="1200" y2="10" stroke="#D9C59B" stroke-width="2" stroke-linecap="round"/>
+  <rect x="592" y="2" width="16" height="16" transform="rotate(45 600 10)" fill="#F3E7CF" stroke="#B8864B" stroke-width="2"/>
+</svg>
