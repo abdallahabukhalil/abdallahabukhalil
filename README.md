@@ -203,7 +203,7 @@ Methods chain, so a cleanup takes one line: `records.bynat.rename_all_DOTS().byn
   <img src="./assets/divider-light.svg" width="100%" alt="">
 </picture>
 
-<br>
+<br><br>
 
 <!-- ───────────────────────── Ludova ───────────────────────── -->
 
@@ -326,7 +326,7 @@ The Blender takes the ranked candidates and groups them by their raw Tags, then 
   <img src="./assets/divider-light.svg" width="100%" alt="">
 </picture>
 
-<br>
+<br><br>
 
 <!-- ───────────────────────── InsightHub ───────────────────────── -->
 
@@ -447,7 +447,7 @@ Senior positions showed approximately **70% higher demand in the gig economy**.
   <img src="./assets/divider-light.svg" width="100%" alt="">
 </picture>
 
-<br>
+<br><br>
 
 <!-- ───────────────────────── Apple Retail Sales ───────────────────────── -->
 
