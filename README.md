@@ -37,7 +37,7 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
   </picture>
 </a>
 
-<br>
+<br><br>
 
 `Python`  ·  `SQL`  ·  `Power BI`  ·  `Excel`  ·  `Pandas`  ·  `scikit-learn`  ·  `DAX`  ·  `FastAPI`  ·  `Git`
 
@@ -66,7 +66,7 @@ Currently exploring **Machine Learning** and the intersection of **data & media*
 
 <table>
 <tr>
-<td align="center">
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/bynat-dark.svg">
@@ -84,7 +84,6 @@ A Python toolkit made of small, reusable utilities for tidying, enriching, loadi
 
 As the **Creator**, I work with pandas data cleaning every day and share what I learn through bynat. I put it on PyPI so analysts can reuse the same cleaning steps instead of rewriting them.
 
-</td>
 </tr>
 </table>
 
@@ -206,7 +205,7 @@ Methods chain, so a cleanup takes one line: `records.bynat.rename_all_DOTS().byn
 
 <table>
 <tr>
-<td align="center">
+<div align="center">
 
 <img src="./assets/ludova-logo.svg" alt="Ludova Logo" width="56">
 
@@ -220,7 +219,6 @@ A team project built around a content-based Steam game recommendation system and
 
 As a <b>Contributor</b>, I designed and implemented the Python Recommendation Engine and separately the Python Post-Process Game Blender, while keeping both components compatible with the project's original implementations through fallbacks.
 
-</td>
 </tr>
 </table>
 
@@ -330,7 +328,7 @@ The Blender takes the ranked candidates and groups them by their raw Tags, then 
 
 <table>
 <tr>
-<td align="center">
+<div align="center">
 
 <img src="./assets/InsightHub%20Logo.svg" alt="InsightHub Logo" width="56">
 
@@ -344,7 +342,6 @@ A graduation project built to make job market data easier to explore by bringing
 
 As <b>Project Lead & Data Analyst</b>, I led the analytics side of the project — building the data workflows and the Analytics Engine behind the platform's insights.
 
-</td>
 </tr>
 </table>
 
@@ -452,7 +449,7 @@ Senior positions showed approximately **70% higher demand in the gig economy**.
 
 <table>
 <tr>
-<td align="center">
+<div align="center">
 
 <h3>Apple Retail Sales</h3>
 
@@ -464,7 +461,6 @@ A collaborative Power BI project exploring 2024 Apple retail sales data covering
 
 The project focused on product performance, sales patterns, and warranty data while using Git and GitHub for team collaboration.
 
-</td>
 </tr>
 </table>
 
@@ -587,9 +583,7 @@ faster delivery
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
+<div align="center">
 
 ### Machine Learning
 
@@ -599,16 +593,17 @@ I'm building on my background in statistics and data analysis to understand how 
 
 **[Explore my Machine Learning Journey workspace →](https://github.com/abdallahabukhalil/Machine-Learning-Journey)**
 
-</td>
-<td width="50%" valign="top" align="center">
+</div>
+
+<br>
+
+<div align="center">
 
 ### Data × Media
 
 I'm also interested in how data can work with **advertising, content, and the broader media industry**.
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
